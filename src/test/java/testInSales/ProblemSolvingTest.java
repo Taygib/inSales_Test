@@ -9,7 +9,7 @@ import pages.ProblemSolvingPage;
 
 import static io.qameta.allure.Allure.step;
 
-public class ProblemSolvingTest {
+public class ProblemSolvingTest extends TestBase {
 
     ProblemSolvingPage Problems = new ProblemSolvingPage();
 
